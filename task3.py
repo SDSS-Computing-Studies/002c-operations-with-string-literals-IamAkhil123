@@ -1,5 +1,5 @@
 #! python3
 
 x=5 
-y=("str donut")
+y=("donut")
 print (x*y)
