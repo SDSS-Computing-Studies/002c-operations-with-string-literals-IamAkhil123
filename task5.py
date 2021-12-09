@@ -6,7 +6,3 @@ word = " kitty kitty kitty"
 result = start + word
 
 print (result)
-
-"""
-sshgisg
-"""
